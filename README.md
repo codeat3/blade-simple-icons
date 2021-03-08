@@ -67,7 +67,7 @@ php artisan vendor:publish --tag=blade-si --force
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-si/si-laravel-nova.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-si/laravelnova.svg') }}" width="10" height="10"/>
 ```
 
 ### Blade Icons
