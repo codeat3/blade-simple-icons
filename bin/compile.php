@@ -85,7 +85,7 @@ class SvgIconCleaner
     {
         // for solid icons
         $finder = new Finder();
-        $finder->files()->in(self::RESOURCE_DIR)->name('.svg');
+        $finder->files()->in(self::RESOURCE_DIR)->name('*.svg');
         foreach ($finder as $file) {
             $changedText = $this->replaceSolidPatterns($file->getContents());
             if ($changedText !== false) {
