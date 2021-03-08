@@ -13,11 +13,11 @@ If you're upgrading from the original Blade Icons package there's very little st
 If you were using the raw exported icons you'll need to re-publish them with:
 
 ```bash
-php artisan vendor:publish --tag=blade-gmdi --force
+php artisan vendor:publish --tag=blade-si --force
 ```
 
 The new way to reference them is:
 
 ```blade
-<img src="{{ asset('vendor/blade-gmdi/o-adjustments.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-si/laravelnova.svg') }}" width="10" height="10"/>
 ```
