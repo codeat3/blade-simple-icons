@@ -4,7 +4,7 @@ set -e
 
 # prepare the source of icons by cloning the repo
 TEMP_DIR=tmp
-mkdir $TEMP_DIR
+mkdir -p $TEMP_DIR
 SOURCE=$TEMP_DIR/simple-icons
 git clone git@github.com:simple-icons/simple-icons.git $TEMP_DIR/simple-icons
 
