@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.1.0 (2021-03-29)
+* Upgrading Simple Icons to v4.17.0
+
 ## 1.0.0 (2021-03-22)
 * Upgrading Simple Icons to v4.16.0
 * Upgrading blade-icons to v1.0
