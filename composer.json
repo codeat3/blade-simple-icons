@@ -1,6 +1,6 @@
 {
     "name": "codeat3/blade-simple-icons",
-    "description": "A package to easily make use of Simple Icons in your Laravel Blade views.",
+    "description": "A package to easily make use of \"Simple Icons\" in your Laravel Blade views. ",
     "keywords": ["Blade", "simpleicons", "Laravel"],
     "homepage": "https://github.com/codeat3/blade-simple-icons",
     "license": "MIT",
@@ -20,6 +20,7 @@
         "illuminate/support": "^8.0"
     },
     "require-dev": {
+        "codeat3/phpcs-styles": "dev-main",
         "orchestra/testbench": "^6.0",
         "phpunit/phpunit": "^9.0",
         "symfony/finder": "^5.2"
@@ -45,5 +46,9 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "format": "vendor/bin/php-cs-fixer fix"
+    }
 }

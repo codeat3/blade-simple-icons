@@ -7,9 +7,6 @@
 <a href="https://github.com/codeat3/blade-simple-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/codeat3/blade-simple-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://github.styleci.io/repos/258753939">
-    <img src="https://github.styleci.io/repos/258753939/shield?style=flat" alt="Code Style">
-</a>
 <a href="https://packagist.org/packages/codeat3/blade-simple-icons">
     <img src="https://img.shields.io/packagist/v/codeat3/blade-simple-icons" alt="Latest Stable Version">
 </a>
