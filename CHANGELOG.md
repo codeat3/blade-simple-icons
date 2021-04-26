@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.4.0 (2021-04-26)
+* Upgrading Simple Icons to [v4.21.0](https://github.com/simple-icons/simple-icons/releases/tag/4.21.0)
+
 ## 1.3.0 (2021-04-19)
 * Upgrading Simple Icons to [v4.20.0](https://github.com/simple-icons/simple-icons/tree/4.20.0)
 
