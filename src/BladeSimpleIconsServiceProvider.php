@@ -6,25 +6,37 @@ namespace Codeat3\BladeSimpleIcons;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Contracts\Container\Container;
 
 final class BladeSimpleIconsServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->callAfterResolving(Factory::class, function (Factory $factory) {
-            $factory->add('simple-icons', [
-                'path' => __DIR__.'/../resources/svg',
-                'prefix' => 'si',
-            ]);
+        $this->registerConfig();
+
+        $this->callAfterResolving(Factory::class, function (Factory $factory, Container $container) {
+            $config = $container->make('config')->get('blade-simple-icons', []);
+
+            $factory->add('simple-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
+
+    }
+
+    private function registerConfig(): void
+    {
+        $this->mergeConfigFrom(__DIR__.'/../config/blade-simple-icons.php', 'blade-simple-icons');
     }
 
     public function boot(): void
     {
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../resources/svg' => public_path('vendor/blade-si'),
-            ], 'blade-si');
+                __DIR__.'/../resources/svg' => public_path('vendor/blade-simple-icons'),
+            ], 'blade-simple-icons');
+
+            $this->publishes([
+                __DIR__.'/../config/blade-simple-icons.php' => $this->app->configPath('blade-simple-icons.php'),
+            ], 'blade-simple-icons-config');
         }
     }
 }

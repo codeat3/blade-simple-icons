@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.6.0 (2021-05-12)
+* Upgrading Simple Icons to [v4.23.0](https://github.com/simple-icons/simple-icons/releases/tag/4.23.0)
+* Added support for config file
 ## 1.5.0 (2021-05-05)
 * Upgrading Simple Icons to [v4.22.0](https://github.com/simple-icons/simple-icons/releases/tag/4.22.0)
 
