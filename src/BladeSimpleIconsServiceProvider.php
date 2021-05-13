@@ -32,7 +32,7 @@ final class BladeSimpleIconsServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__.'/../resources/svg' => public_path('vendor/blade-simple-icons'),
-            ], 'blade-simple-icons');
+            ], 'blade-si');
 
             $this->publishes([
                 __DIR__.'/../config/blade-simple-icons.php' => $this->app->configPath('blade-simple-icons.php'),
