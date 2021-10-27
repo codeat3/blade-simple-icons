@@ -4,6 +4,9 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.18.1...main)
 
+## 1.19.1 (2021-10-27)
+* Upgrading Simple Icons to [v5.20.0](https://github.com/simple-icons/simple-icons/releases/tag/5.20.0)
+
 ## 1.18.1 (2021-10-11)
 * Upgrading Simple Icons to [v5.18.0](https://github.com/simple-icons/simple-icons/releases/tag/5.18.0)
 
