@@ -4,20 +4,20 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.21.1...HEAD)
 
-## 1.20.1 (2021-11-15)
-
-- Upgrading Simple Icons to [v5.23.0](https://github.com/simple-icons/simple-icons/releases/tag/5.23.0)
-
 ## [1.21.1](https://github.com/codeat3/blade-simple-icons/compare/1.19.1...1.21.1) - 2022-01-03
 
 ### Updates
 
-- Upgrading Simple Icons to [v5.23.0](https://github.com/simple-icons/simple-icons/releases/tag/6.5.0)
+- Upgrading Simple Icons to [v6.5.0](https://github.com/simple-icons/simple-icons/releases/tag/6.5.0)
 
 ### Dev Update
 
 - added auto update change log workflow
 - running auto update only once a week
+
+## 1.20.1 (2021-11-15)
+
+- Upgrading Simple Icons to [v5.23.0](https://github.com/simple-icons/simple-icons/releases/tag/5.23.0)
 
 ## 1.19.1 (2021-10-27)
 
