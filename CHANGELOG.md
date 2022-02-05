@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.24.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.25.1...HEAD)
+
+## [1.25.1](https://github.com/codeat3/blade-simple-icons/compare/1.24.1...1.25.1) - 2022-02-05
+
+## What's Changed
+
+- Added support for Laravel 9 by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/31
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/1.24.1...1.25.1
 
 ## [1.24.1](https://github.com/codeat3/blade-simple-icons/compare/1.23.1...1.24.1) - 2022-01-31
 
