@@ -29,6 +29,16 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 composer require codeat3/blade-simple-icons
 ```
 
+## Performance
+
+The package uses blade-ui-kit. Blade Icons can slow down your app tremendously. To solve this issue, Blade Icons ships with caching support. To enable icon caching you can run the following command:
+
+    php artisan icons:cache
+
+When you want to add new icons, you need to clear your icons cache.
+
+For more details see https://github.com/blade-ui-kit/blade-icons#caching    
+
 ## Updating
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
