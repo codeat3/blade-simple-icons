@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.64.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.65.0...HEAD)
+
+## [1.65.0](https://github.com/codeat3/blade-simple-icons/compare/1.64.0...1.65.0) - 2023-02-18
+
+### What's Changed
+
+- Laravel 10 support by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/76
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/1.64.0...1.65.0
 
 ## [1.64.0](https://github.com/codeat3/blade-simple-icons/compare/1.63.0...1.64.0) - 2023-02-14
 
