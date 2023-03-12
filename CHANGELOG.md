@@ -2,7 +2,17 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.65.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/1.66.0...HEAD)
+
+## [1.66.0](https://github.com/codeat3/blade-simple-icons/compare/1.65.0...1.66.0) - 2023-03-12
+
+### What's Changed
+
+- upgrade github action to php82 by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/77
+- sync with the latest tag [8.6.0](https://github.com/simple-icons/simple-icons/releases/tag/8.6.0)
+- chore: update icons with the latest commit va766e8488428aed964b3ac2caf54f0b4127ffee6 by @github-actions in https://github.com/codeat3/blade-simple-icons/pull/78
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/1.65.0...1.66.0
 
 ## [1.65.0](https://github.com/codeat3/blade-simple-icons/compare/1.64.0...1.65.0) - 2023-02-18
 
