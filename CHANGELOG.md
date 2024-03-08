@@ -2,7 +2,17 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/3.6.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/3.7.0...HEAD)
+
+## [3.7.0](https://github.com/codeat3/blade-simple-icons/compare/3.6.0...3.7.0) - 2024-03-08
+
+### What's Changed
+
+* laravel 11 support by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/123
+* synced with the latest released tag [11.7.0](https://github.com/simple-icons/simple-icons/releases/tag/11.7.0)
+* chore: update icons with the latest commit [f06f3d2](https://github.com/simple-icons/simple-icons/commit/f06f3d2b98d0976820b6b7a8a1778858a7f554f6) by @github-actions in https://github.com/codeat3/blade-simple-icons/pull/124
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/3.6.0...3.7.0
 
 ## [3.6.0](https://github.com/codeat3/blade-simple-icons/compare/3.5.0...3.6.0) - 2024-02-26
 
