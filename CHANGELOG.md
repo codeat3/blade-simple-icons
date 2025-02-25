@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/6.5.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/6.6.0...HEAD)
+
+## [6.6.0](https://github.com/codeat3/blade-simple-icons/compare/6.5.0...6.6.0) - 2025-02-25
+
+### What's Changed
+
+* laravel 12 support added by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/176
+* chore: update icons with the latest commit [74173d5](https://github.com/simple-icons/simple-icons/commit/74173d5f67f49adbba306fbb57d0abe112c0391d) by @github-actions in https://github.com/codeat3/blade-simple-icons/pull/172
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/6.5.0...6.6.0
 
 ## [6.5.0](https://github.com/codeat3/blade-simple-icons/compare/6.4.0...6.5.0) - 2025-02-10
 
