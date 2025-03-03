@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/6.8.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/6.9.0...HEAD)
+
+## [6.9.0](https://github.com/codeat3/blade-simple-icons/compare/6.8.0...6.9.0) - 2025-03-03
+
+### What's Changed
+
+* synced with the latest released tag [14.9.0](https://github.com/simple-icons/simple-icons/releases/tag/14.9.0)
+* chore: update icons with the latest commit [2aef7ce](https://github.com/simple-icons/simple-icons/commit/2aef7ce65fbaef8a013d254d3ee98cbf054a6aad) by @github-actions in https://github.com/codeat3/blade-simple-icons/pull/177
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/6.8.0...6.9.0
 
 ## [6.8.0](https://github.com/codeat3/blade-simple-icons/compare/6.7.0...6.8.0) - 2025-02-25
 
