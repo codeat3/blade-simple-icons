@@ -2,7 +2,53 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/8.1.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-simple-icons/compare/8.6.0...HEAD)
+
+## [8.6.0](https://github.com/codeat3/blade-simple-icons/compare/8.5.0...8.6.0) - 2026-03-22
+
+### What's Changed
+
+* synced with the released tag [16.6.0](https://github.com/simple-icons/simple-icons/releases/tag/16.6.0)
+* chore: update icons with the latest commit [adcd3d2](https://github.com/simple-icons/simple-icons/commit/adcd3d223d9224a76e4a096cdcb44469335c13f6) by @github-actions[bot] in https://github.com/codeat3/blade-simple-icons/pull/218
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/8.5.0...8.6.0
+
+## [8.5.0](https://github.com/codeat3/blade-simple-icons/compare/8.4.0...8.5.0) - 2026-03-22
+
+### What's Changed
+
+* synced with the released tag [16.5.0](https://github.com/simple-icons/simple-icons/releases/tag/16.5.0)
+* chore: update icons with the latest commit [4231fd0](https://github.com/simple-icons/simple-icons/commit/4231fd05616cd160fd8e68d05d8bbf509459306c) by @github-actions[bot] in https://github.com/codeat3/blade-simple-icons/pull/217
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/8.4.0...8.5.0
+
+## [8.4.0](https://github.com/codeat3/blade-simple-icons/compare/8.3.0...8.4.0) - 2026-03-22
+
+### What's Changed
+
+* synced with the released tag [16.4.0](https://github.com/simple-icons/simple-icons/releases/tag/16.4.0)
+* chore: update icons with the latest commit [b9b2fe6](https://github.com/simple-icons/simple-icons/commit/b9b2fe63a5d6de95bd8aca2a5eafa3cbf3847238) by @github-actions[bot] in https://github.com/codeat3/blade-simple-icons/pull/216
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/8.3.0...8.4.0
+
+## [8.3.0](https://github.com/codeat3/blade-simple-icons/compare/8.2.0...8.3.0) - 2026-03-22
+
+### What's Changed
+
+* synced with the released tag [16.3.0](https://github.com/simple-icons/simple-icons/releases/tag/16.3.0)
+* chore: update icons with the latest commit [6fa9e1a](https://github.com/simple-icons/simple-icons/commit/6fa9e1afe0fa2662a6b125919577636b38facfce) by @github-actions[bot] in https://github.com/codeat3/blade-simple-icons/pull/215
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/8.2.0...8.3.0
+
+## [8.2.0](https://github.com/codeat3/blade-simple-icons/compare/8.1.0...8.2.0) - 2026-03-22
+
+### What's Changed
+
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-simple-icons/pull/226
+* synced with the relased version [16.2.0](https://github.com/simple-icons/simple-icons/releases/tag/16.2.0)
+* chore: update icons with the latest commit [be6e6b0](https://github.com/simple-icons/simple-icons/commit/be6e6b0e89a3c882b362c81a1d36993845add7f2) by @github-actions[bot] in https://github.com/codeat3/blade-simple-icons/pull/214
+
+**Full Changelog**: https://github.com/codeat3/blade-simple-icons/compare/8.1.0...8.2.0
 
 ## [8.1.0](https://github.com/codeat3/blade-simple-icons/compare/8.0.0...8.1.0) - 2025-12-15
 
