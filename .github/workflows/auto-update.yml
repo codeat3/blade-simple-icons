@@ -1,6 +1,7 @@
 name: Auto Update Icons
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 12 * * 1'
 
